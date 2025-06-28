@@ -1,0 +1,83 @@
+/* body {
+  margin: 16px;
+  line-height: 1.5;
+  color: #212121;
+  font-family: sans-serif;
+}
+
+p {
+  margin: 0;
+}
+
+.posts {
+  margin: 0;
+  margin-top: 24px;
+  list-style: none;
+}
+
+.posts li:not(:last-child) {
+  margin-bottom: 16px;
+}
+
+.post-title {
+  margin-top: 0;
+  margin-bottom: 8px;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.post-title:first-letter {
+  text-transform: uppercase;
+} */
+
+
+body {
+  margin: 16px;
+  line-height: 1.5;
+  color: #212121;
+  font-family: sans-serif;
+}
+
+p {
+  margin: 0;
+}
+
+.Users {
+  margin: 0;
+  margin-top: 24px;
+  list-style: none;
+}
+
+.Users li:not(:last-child) {
+  margin-bottom: 16px;
+}
+
+.User-title {
+  margin-top: 0;
+  margin-bottom: 8px;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.User-title:first-letter {
+  text-transform: uppercase;
+}
+
+.pagination {
+  margin-top: 24px;
+}
+
+.pagination button {
+  margin: 4px;
+  padding: 6px 12px;
+  border: none;
+  background-color: #ddd;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.pagination button.active {
+  background-color: #2f80ed;
+  color: white;
+  font-weight: bold;
+}
